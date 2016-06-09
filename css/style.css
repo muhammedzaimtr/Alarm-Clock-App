@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+    color: #535353;
+}
+
+.app{
+    /* background: linear-gradient(141deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 75%); */
+    background-color: #fff;
+    color: #535353;
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    border:1px solid #0080ff;
+}
+
+.bar{
+    color: #535353;
+    width: 100%;
+    height: 50px;
+    line-height: 35px;
+    padding-left: 15px;
+    font-size: 20px;
+    line-height: 50px;
+    font-weight: 100;
+}
+
+.ekle{
+    font-size: 40px;
+    line-height: 30px;
+    color: #535353;
+    font-weight: 100;
+    text-align: right;
+    margin-top: 8px;
+    margin-left: 10px;
+}
+
+.alarm{
+    color: #fff;
+    height: 100px;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    font-size: 40px;
+    font-weight: 800;
+    text-align: center;
+    line-height: 100px;
+    padding-left: 14px;
+}
+
+.tik{
+    font-weight: 800;
+    font-size: 50px;
+    color: #fff;
+}
+
+.gunuzgece{
+    font-weight: 100;
+    font-size: 12px;
+    color: #fff;
+    margin-left: -10px;
+}
+
+.ayrac{
+    font-size: 20px;
+    font-weight: 100;
+    color: #fff;
+    margin-left: -8px;
+}
+
+.clock1{
+    background-color: #a3daff;
+    color: #fff;
+ }
+
+.clock2{
+    background-color: #1ec0ff;
+    color: #fff;
+}
+
+.clock3{
+    background-color: #03a6ff;
+    color: #fff;
+}
+
+.clock4{
+    background-color: #0080ff;
+    color: #fff;
+}
+.clock5{
+    background-color: #0073e5;
+    color: #fff;
+}
+
+.footer{
+    height: 20px;
+    border-radius: 0px 0px 8px 8px;
+    padding-left: 14px;
+}
+
